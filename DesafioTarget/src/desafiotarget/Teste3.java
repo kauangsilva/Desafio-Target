@@ -10,9 +10,7 @@ package desafiotarget;
  */
 public class Teste3 {
     public static void main(String[] args) {
-        int indice = 12;
-        int soma = 0;
-        int k = 1;
+        int indice = 12, soma = 0, k = 1;
         
         do {
            k = k + 1;
